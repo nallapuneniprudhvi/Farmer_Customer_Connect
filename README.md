@@ -1,36 +1,30 @@
 # Farmer Customer Connect
 ## Project Description
 
-The **Farmer Customer Connect** is an web application built using React JS, Mongo DB, Node JS and Express. Usually these technologies are called as MERN. This web application is like an E-Commerce website which can be used by both farmers and customers to buy and sell vegetables, dairy products, fruits etc. In this Web application farmers can register themselves and sell their produce at a suitable price. Customers can various vegetables, dairy products, and fruits from their home for a nominal price. This Web application connects both farmer’s and customer’s digitally making it easier for farmer’s to sell their products at ease without any intermediate buyers. This Web application is mainly aims to remove the middlemen so that the farmer’s can sell their products at a suitable price.
+The **Farmer Customer Connect** is an web application built using React JS, MongoDB, Node-JS and Express. Usually these technologies are referred as MERN Stack technologies. This web application is an E-Commerce website which can be used to buy organic and natural products directly from the farmers. In this Web application farmers can register themselves and sell their products at a nominal price. Customers can buy various vegetables, dairy products, and fruits from their home for a nominal price. This Web application connects both farmer’s and customer’s digitally making it easier for farmer’s to sell their products at ease without any intermediaries. This Web application is mainly aims to remove the middlemen so that the farmer’s can sell their products at a suitable price.
 
-### Markdown
+## Problem statement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Farmer's are facing huge losses because of the middlemen. They couldn't be able to find the better price for their crops at markets and raithu bazar. Inorder to avoid the interfernece of the middlemen farmers need a digital space to sell their crops directly to the customer. Customers can also enjoy the natural products at affordable prices if there are no middlemen. **Farmer customer connect** web application provides a digital space for the customers and farmers.
 
-```markdown
-Syntax highlighted code block
+## Technologies used
 
-# Header 1
-## Header 2
-### Header 3
+### Frontend : React JS
+### Backend : Node JS, Express JS and Mongo DB
+### Testing Tools : JEST
+### Code Versioning Systems: Git and GitHub
 
-- Bulleted
-- List
+## Sprint 1:
+### Learnings
 
-1. Numbered
-2. List
+In first sprint we have learned about the SCRUM methodology and various attibutes and aspects in SCRUM. Later, we decided on what technologies we had to use to implement this Web application. Moreover, we have decided to work on MERN technolgies. Further, we worked on basics of these MERN technologies. In addition to that, we have learnt how to create user stories along with creation of branches in the GitHub Website. Also, we have worked on the MERN and created a simple Signin page which takes the details from the user and stores it in the database.
 
-**Bold** and _Italic_ and `Code` text
+## Sprint 2:
+### Learnings
 
-[Link](url) and ![Image](src)
-```
+In the second sprint we started working on a User story to implement the “SignIn/SignUp/SignOut” page for farmer and customer. We have created the fronted i.e. UI using the React JS. later used Express, Node to create a backend and we were using MongoDB as a database to store the data from the user. The user should give his First Name, Last Name, Email Address, Password to signup to the web application in order to see his profile. We tried to implement the Google Authentication also but we have faced issues related to the database, so we worked on the traditional way of signing up process. Later, we have created the Signin page where the user can give his details like Email Address and Password to get access to his account. Morever, after signing in he can also sign out from the website using the sign out option
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Sprint 3:
+### Learnings
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nallapuneniprudhvi/FCConnect_Protfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In the third sprint we have completed the basic signin/signup/signout process. Later, we have integrated all the signin and signup pages which were made separately from the beginning. After that, we have implement JWT system to our signin/signup process where a token is generated everytime when a user login’s to the application. Moreover, after the user has signout of the page he will not any access to the previous pages when he clicks on the back button. In addition to that, we have worked on the JEST to test application we have built until now. Additionally, we have updated some of the user stories along with acceptance criteria.
