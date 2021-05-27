@@ -9,10 +9,10 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 
 ## Technologies used
 
-### Frontend : React JS
-### Backend : Node JS, Express JS and Mongo DB
-### Testing Tools : JEST
-### Code Versioning Systems: Git and GitHub
+**Frontend :** React JS
+**Backend :** Node JS, Express JS and Mongo DB
+**Testing Tools :** JEST
+**Code Versioning Systems:** Git and GitHub
 
 ## Sprint 1:
 ### Learnings
