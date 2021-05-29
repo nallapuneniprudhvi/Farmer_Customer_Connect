@@ -34,7 +34,7 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 
 ## Sprint 3:
 
-* We have completed the basic signin/signup/signout process. Later, we have integrated all the signin and signup pages which were made separately from the beginning. 
+* We have completed the basic Signin/Signup/Signout process. Later, we have integrated all the signin and signup pages which were made separately from the beginning. 
 * We have implement JWT system to our signin/signup process where a token is generated everytime when a user login’s to the application. 
 * After the user has signout of the page he will not any access to the previous pages when he clicks on the back button. 
 * We have worked on the JEST to test application we have built until now. Additionally, we have updated some of the user stories along with acceptance criteria.
@@ -43,7 +43,7 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 ## Sprint 4:
 
 * Started Implementing a new user story i.e., Product display page for Customers
-* Assigned roles in the signp process i.e., Farmer or Customer.
+* Assigned roles in the Sign-up process i.e., Farmer or Customer.
 * Designed a product page for the customer and farmer. We have designed a product page where only farmer can add products
-* Resolved some bugs that came up while signing out and assigned an api form the signout
-* Integrated the product page and Sign-In page such that after signin page will be redirected to the products page 
+* Resolved some bugs that came up while signing out and assigned an api for the signout
+* Integrated the product page and Sign-in page such that after signin page will be redirected to the products page 
