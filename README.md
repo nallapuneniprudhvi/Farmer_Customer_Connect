@@ -16,7 +16,6 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
   
 
 ## Sprint 1:
-### Learnings
 
 * We have learned about the SCRUM methodology and various attibutes and aspects in SCRUM. 
 * Later, we decided on what technologies we had to use to implement this Web application. 
@@ -25,7 +24,6 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * We have worked on the MERN and created a simple Signin page which takes the details from the user and stores it in the database.
 
 ## Sprint 2:
-### Learnings
 
 * We started working on a User story to implement the “SignIn/SignUp/SignOut” page for farmer and customer. 
 * We have created the fronted i.e. UI using the React JS. later used Express, Node to create a backend and we were using MongoDB as a database to store the data from the user. 
@@ -35,7 +33,6 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * After signing in he can also sign out from the website using the sign out option
 
 ## Sprint 3:
-### Learnings
 
 * We have completed the basic signin/signup/signout process. Later, we have integrated all the signin and signup pages which were made separately from the beginning. 
 * We have implement JWT system to our signin/signup process where a token is generated everytime when a user login’s to the application. 
@@ -43,3 +40,10 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * We have worked on the JEST to test application we have built until now. Additionally, we have updated some of the user stories along with acceptance criteria.
 
 
+## Sprint 4:
+
+* Started Implementing the lefover traditional method of signup and signin
+* Assigned roles in the signp process i.e., Farmer or Customer.
+* Designed a product page for the customer and farmer. We have designed a product page where only farmer can add products
+* Resolved some bugs that came up while signing out and assigned an api form the signout
+* Integrated the product page and Sign-In page such that after signin page will be redirected to the products page 
