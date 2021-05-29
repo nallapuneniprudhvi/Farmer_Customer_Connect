@@ -42,7 +42,7 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 
 ## Sprint 4:
 
-* Started Implementing the lefover traditional method of signup and signin
+* Started Implementing a new user story i.e., Product display page for Customers
 * Assigned roles in the signp process i.e., Farmer or Customer.
 * Designed a product page for the customer and farmer. We have designed a product page where only farmer can add products
 * Resolved some bugs that came up while signing out and assigned an api form the signout
