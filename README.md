@@ -46,3 +46,11 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * Designed a product page for the customer and farmer. We have designed a product page where only farmer can add products
 * Resolved some bugs that came up while signing out and assigned an api for the Sign-out
 * Integrated the product page with Sign-in page such that after Sign-in, page will be redirected to the products page 
+
+
+## Sprint 5:
+* Started testing the application using JEST
+* Wrote test cases for the Signin and Sign Up page which are used by Farmer and Customer
+* Wrote around 11 test cases for both Signin and Sign up process
+* Pushed the files that were created until now into the github
+* Decided & started integrating the code with the other team
