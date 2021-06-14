@@ -59,4 +59,5 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * Started Integration for the entire work done till now
 * Got some errors while integrating such as image display error
 * We have resolved image errors and we have integrated the product adding, editing and display page with signin and signout
-* While signing out we got TypeError, we have to resolve that error for the complition of integration
+* While signing out we got TypeError
+* Decided to implement and move further with new user stories such as add to cart
