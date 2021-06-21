@@ -38,7 +38,6 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * After the user has signout of the page he will not any access to the previous pages when he clicks on the back button
 * We have worked on the JEST to test application we have built until now. Additionally, we have updated some of the user stories along with acceptance criteria
 
-
 ## Sprint 4:
 
 * Started Implementing a new user story i.e. product display page for the Customers
@@ -47,8 +46,8 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * Resolved some bugs that came up while signing out and assigned an api for the Sign-out
 * Integrated the product page with Sign-in page such that after Sign-in, page will be redirected to the products page 
 
-
 ## Sprint 5:
+
 * Started testing the application using JEST
 * Wrote test cases for the Signin and Sign Up page which are used by Farmer and Customer
 * Wrote around 11 test cases for both Signin and Sign up process
@@ -56,8 +55,17 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * Decided & started integrating the code with the other team
 
 ## Sprint 6:
+
 * Started Integration for the entire work done till now
 * Got some errors while integrating such as image display error
 * We have resolved image errors and we have integrated the product adding, editing and display page with signin and signout
 * While signing out we got TypeError
 * Decided to implement and move further with new user stories such as add to cart
+
+## Sprint 7:
+* Started working on errors while siginig out which araised during integration
+* Started implementing add to cart page and got some errors while integrating
+* Developed UI and resolved the bugs which are there earlier
+* Integrated the editprofile page to the entire work done but faced difficult while displaying orders as cards
+* Change in quantity is observed in each and every product while adding to cart
+* Resolved the bug which is there earlier and integrated the add to cart page with the entie work
