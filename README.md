@@ -75,3 +75,4 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * Modified the UI along with resolving the bugs which came up while integrating
 * Integrated the order page on the farmer side so that he can know who is his customer
 * Worked on creating a presentation and gathered information regarding the presentation
+* Prepared for the final review of our project
