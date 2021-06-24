@@ -69,3 +69,9 @@ Farmer's are facing huge losses because of the middlemen. They couldn't be able 
 * Integrated the editprofile page to the entire work done but faced difficult while displaying orders as cards
 * Change in quantity is observed in each and every product while adding to cart
 * Resolved the bug which is there earlier and integrated the add to cart page with the entie work
+
+## Sprint 8:
+* Started integrating the order page with the work done till now
+* Modified the UI along with resolving the bugs which came up while integrating
+* Integrated the order page on the farmer side so that he can know who is his customer
+* Worked on creating a presentation and gathered information regarding the presentation
